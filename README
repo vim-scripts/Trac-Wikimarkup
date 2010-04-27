@@ -1,0 +1,7 @@
+This is a mirror of http://www.vim.org/scripts/script.php?script_id=3074
+
+Syntax highlighting for Trac WikiMarkup.  
+
+I was a little unsatisfied with the other available wikimarkup highlighters available-- they were either too focused on a specific wiki engine to be useful for Trac, or its highlighting was less-than-complete.
+
+In an effort to address this issue, I decided to make a few updates and modifications to http://www.vim.org/scripts/script.php?script_id=725.
